@@ -1,5 +1,7 @@
 package Collecton.ArrayList;
 
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 
@@ -20,4 +22,11 @@ public class ArrayDemo2 {
         }
         System.out.println(data);
     }
+
+
+
+
+
+
+
 }
