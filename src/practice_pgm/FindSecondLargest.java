@@ -14,7 +14,7 @@ public class FindSecondLargest {
 
                 second = largest;
                 largest = arr[i];
-
+                    
         } else if (arr[i]>second) {
                    second=arr[i];
             }
